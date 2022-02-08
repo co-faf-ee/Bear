@@ -1,0 +1,6 @@
+{
+  "name": "kaboom-test",
+  "dependencies": {
+    "kaboom": "file:.."
+  }
+}
