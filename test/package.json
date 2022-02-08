@@ -1,6 +1,7 @@
 {
   "name": "kaboom-test",
   "dependencies": {
-    "kaboom": "file:.."
+    "kaboom": "file:..",
+    "puppeteer": "^13.2.0"
   }
 }
